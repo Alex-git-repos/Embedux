@@ -1,0 +1,9 @@
+You've found your way to the root fs!
+Here's what each folder is and does:
+--bins: holds executable binaries for all apps and commands.
+--boot: holds bootloader, kernel image, and dtbs.
+--etc: personal directory for workspaces, containers, project, and whatever else. Programs may use.
+--pkg: holds the pkg package manager, as well as it's repositories, and other package/program data.
+--utils: programming utilities, like headers, libraries, and compilers.
+
+Want to make a change? Commit and we'll review.
