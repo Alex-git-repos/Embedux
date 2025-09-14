@@ -1,5 +1,5 @@
 # Embedux WIP
-The official Embedux Linux repository
+The official Embedux OS repository
 
 # Simple. Proper. Advanced.
 <img width="1920" height="1080" alt="Embedux roadmap" src="https://github.com/user-attachments/assets/4a521002-49da-4bf1-84c6-1f82829bdfe7" />
