@@ -1,4 +1,4 @@
-# Embedux
+# Embedux WIP
 The official Embedux repository
 
 # Simple. Proper. Advanced.
@@ -11,7 +11,10 @@ The official Embedux repository
 Always secure, never dangerous.
 
 # Modular
-  This system is very simple. Refer to the image above for filesystem structure.
-
+  This system is very simple. You can add to the filesystem by suggesting and commiting a new Root FS structure, and load in any module when you'd like by using one of the basic commands in the wiki.
+  
 # Want to help?
   You can add to anything! Work on the package manager (pkg), make a customized Root FS archive, develop an Img, or whatever else!
+#
+#
+#
